@@ -1,4 +1,4 @@
-# Business Network Desing using Cisco Packet Tracer
+# Business Network Design using Cisco Packet Tracer
 
 ## Overview
 This project demonstrates the design and implementation of a secure business network using Cisco Packet Tracer.  It shows practical networking concepts such as VLAN configuration, DHCP, NAT and IP addressing
